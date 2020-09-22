@@ -9,5 +9,8 @@ The Conviva JavaScript thePlatform Plugin is built on top of <a href="https://gi
 <script type="text/javascript" src="<PATH>/conviva-thePlatform-plugin.js"></script>
 ```
 
+## Supported Framework Versions
+PDK 6.4.0
+
 ## Note:
 * Refer https://community.conviva.com/ for integration guidelines.
