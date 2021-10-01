@@ -4,7 +4,7 @@ Conviva thePlatform Plugin auto-detects events emitted by pdk player.
 ## Install via npm 
 
 ```
-npm install @convivainc/conviva-js-videojs --save
+npm install @convivainc/conviva-js-theplatform --save
 ```
 
 ## Supported Framework Versions

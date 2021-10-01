@@ -12,7 +12,7 @@ The Conviva JavaScript thePlatform Plugin is built on top of <a href="https://gi
 ## Install via npm 
 
 ```
-npm install @convivainc/conviva-js-videojs --save
+npm install @convivainc/conviva-js-theplatform --save
 ```
 
 ## Supported Framework Versions
