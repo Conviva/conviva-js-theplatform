@@ -1,0 +1,28 @@
+{
+  "name": "@convivainc/conviva-js-theplatform",
+  "version": "4.0.3",
+  "description": "Conviva thePlatform Plugin",
+  "main": "conviva-thePlatform-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-theplatform.git"
+  },
+  "keywords": [
+    "Conviva",
+    "thePlatform",
+    "module",
+    "video"
+  ],
+  "author": "Conviva Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-theplatform/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-theplatform#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.4.3"
+  }
+}
