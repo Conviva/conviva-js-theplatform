@@ -14,6 +14,12 @@ The Conviva JavaScript thePlatform Plugin is built on top of <a href="https://gi
 ```
 npm install @convivainc/conviva-js-theplatform --save
 ```
+  
+## Install via yarn
+
+```
+yarn add @convivainc/conviva-js-theplatform
+```
 
 ## Supported Framework Versions
 PDK 6.4.0
